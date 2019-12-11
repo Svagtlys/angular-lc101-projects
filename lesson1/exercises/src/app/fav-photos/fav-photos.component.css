@@ -5,6 +5,11 @@ h3 {
 img {
    width : 150px;
    height: 150px;
+   margin-bottom: 5px;
+}
+
+.fullscreen {
+   outline: 1px solid black;
 }
 
 .photos {
